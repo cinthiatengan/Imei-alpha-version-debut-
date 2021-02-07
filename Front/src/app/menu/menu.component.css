@@ -1,0 +1,20 @@
+.imgsocial{
+    /* max-width: 100% !important; */
+    width: 50px !important;
+    height: 50px !important;
+    object-fit: cover !important;
+}
+
+.fs-16{
+    font-size: 16pt;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.fs-20 {
+    font-size: 20pt;
+    font-weight: bolder;
+}

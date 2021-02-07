@@ -1,0 +1,52 @@
+*{
+    font: roboto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    height: 100vh !important;
+}
+
+.div-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover !important;
+}
+
+.menu {
+    padding: 0 !important;
+}
+
+.fixed{
+    position: fixed;
+}
+
+.container-fluid {
+    height: 100vh !important;
+}
+
+.mt-100 {
+    margin-top: 250px;
+}
+
+.botao{
+
+    background-color: #72077f;
+    width: 90px !important;
+    height: 40px !important;
+    border-radius: 10px;
+}
+.botao2{
+
+
+    background-color: #E5982E;
+    width: 90px !important;
+    height: 40px !important;
+    border-radius: 10px;
+}

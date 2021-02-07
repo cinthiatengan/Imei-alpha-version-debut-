@@ -1,0 +1,147 @@
+/* You can add global styles to this file, and also import other style files */
+
+html{
+    scroll-behavior: smooth;
+}
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.botao{
+
+    background-color: #72077f !important;
+    width: 90px !important;
+    height: 40px !important;
+    border-radius: 10px;
+}
+.botao2{
+
+
+    background-color: #E5982E !important;
+    width: 90px !important;
+    height: 40px !important;
+    border-radius: 10px;
+}
+  .logo{
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+
+  .margem{
+    margin-left: 300px;
+}
+
+  .texto-menu {
+    font-size: 14pt;
+    font-family: Aksara Bali Galang;
+    color: white;
+    padding-right: 20px;
+  
+  }
+
+  .texto{
+    font-size: 20pt;
+    color: white;
+    font-family: Alata;
+    
+  }
+
+  .titulo{
+    font-size: 40pt;
+    color: white;
+    font-family: Alata;
+    text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 0px;
+  }
+  .titulo2{
+    font-size: 20pt;
+    color: white;
+    font-family:  Roboto Slab, sans-serif;
+    margin-bottom: 0px;
+    margin-top: 100px;
+  }
+  .titulo3{
+    font-size: 35pt;
+    color: white;
+    font-family: Alata;
+    text-shadow: 2px 2px 4px #72077f;
+    margin-bottom: 0px;
+    margin-top: 100px;
+     
+  }
+
+  .btn{
+    border-radius: 7px !important;
+    align-items: center !important;
+  }
+  .botao{
+
+    background-color: #72077f;
+    opacity: 0.7;
+    width: 140px;
+    height: 40px; 
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.botao:hover { 
+  
+  background-color: #72077f;
+  opacity: 1;
+    width: 140px;
+    height: 40px; 
+    display: flex;
+   justify-content: center;
+   align-items: center;
+  
+}
+
+ 
+  .titulo4{
+    font-size: 30pt;
+    color: #ffffff;
+    font-family:  Roboto Slab, sans-serif;
+     
+  }
+
+  .margem2{
+    margin-bottom: 200px;
+    
+}
+
+.margemd{
+    margin-right: 430px;  
+    
+}
+
+
+.tm-social{
+    /* max-width: 100% !important; */
+    width: 225px !important;
+    height: 225px !important;
+    object-fit: cover !important;
+}
+.tm-social2{
+    width: 350px;
+    height: 350px;
+}
+.parallax {
+    background-image: url("/assets/sobre2.jpg");
+
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 0px;
+}
+.produto{
+    width: 100px;
+    height: 100px;
+  }
